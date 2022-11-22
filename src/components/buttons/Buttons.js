@@ -2,7 +2,7 @@ import Button from 'react-bootstrap/Button';
 
 const Buttons = () => {
     return <>
-      <Button variant="primary">Primary</Button>{' '}
+      <Button variant="primary">Hello world</Button>{' '}
       <Button variant="secondary">Secondary</Button>{' '}
       <Button variant="success">Success</Button>{' '}
       <Button variant="warning">Warning</Button>{' '}
